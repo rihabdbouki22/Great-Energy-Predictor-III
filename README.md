@@ -51,4 +51,4 @@ Concerning the target variable meter_reading we opt for the **log tranformation*
 For the modeling we used an LSTM architechture composed of one input layes, 3 hidden layes and one output layes with respectively 512, 256, 128, 64, 32 and 1 units. To avoid overfitting we used dropout=0,2 and early stopping.
 
 # Result
-After more than 12 hours of train our model was stopped in the 18/32 epoch to give 1.1276 loss and 1.0609 root_mean_square_error.
+After training our model with 20 epochs it gives 0.9959 loss and 0.9963 root_mean_square_error. 
