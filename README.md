@@ -52,3 +52,7 @@ For the modeling we used an LSTM architechture composed of one input layes, 3 hi
 
 # Result
 After training our model with 20 epochs it gives 0.9959 loss and 0.9963 root_mean_square_error. 
+
+### Submission score
+After submitting this project we had 1,764 score.
+
